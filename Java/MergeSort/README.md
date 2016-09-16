@@ -10,7 +10,7 @@
 >    element is considered sorted).
 > 2. Repeatedly merge sublists to produce new sorted sublists until there is only 1
 >    sublist remaining. This will be the sorted list.
-(Wikipedia)[https://en.wikipedia.org/wiki/Merge_sort]
+[Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)
 
 This Java class can be constructed using an Array List of integers that can then
 be sorted when the _sort_ method is called. The sort will be performed using
