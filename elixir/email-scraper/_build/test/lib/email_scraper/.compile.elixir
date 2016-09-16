@@ -1,0 +1,5 @@
+v2.
+{<<"_build/test/lib/email_scraper/ebin/Elixir.EmailScraper.beam">>,
+ 'Elixir.EmailScraper',module,<<"lib/email_scraper.ex">>,
+ ['Elixir.Kernel'],
+ [],[],nil}.
