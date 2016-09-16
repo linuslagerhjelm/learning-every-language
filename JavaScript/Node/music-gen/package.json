@@ -1,0 +1,17 @@
+{
+  "name": "music-gen",
+  "version": "0.1.0",
+  "description": "A simple node program that will generate some music",
+  "main": "index.js",
+  "scripts": {
+    "test": "music-gen test"
+  },
+  "keywords": [
+    "music",
+    "node",
+    "generate",
+    "random"
+  ],
+  "author": "Linus Lagerhjelm",
+  "license": "ISC"
+}
