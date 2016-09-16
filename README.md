@@ -3,6 +3,9 @@ I have found that a good way to learn a new language is to performe various
 scripting tasks and implemnenting simple algorithms in that language. This repo is
 going to cointain my colection of these implementations.
 
+__Note:__ All the code in this repo is written on OSX and asumes a UNIX system
+to work. It may or may not work or other systems
+
 ###Why put it openly on github?
 It is my belief that people that also tries to learn new languages might
 possible find some of these examples useful as they will provide some example
