@@ -1,7 +1,0 @@
-v2.
-{<<"_build/dev/lib/email_scraper/ebin/Elixir.EmailScraper.beam">>,
- 'Elixir.EmailScraper',module,<<"lib/email_scraper.ex">>,
- ['Elixir.HTTPoison.Response','Elixir.HTTPoison.Error','Elixir.Kernel'],
- ['Elixir.List','Elixir.Regex',erlang,'Elixir.HTTPoison','Elixir.IO',
-  'Elixir.Enum'],
- [],nil}.
