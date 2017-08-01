@@ -1,4 +1,4 @@
-#facerecognition
+# facerecognition   
 This is an implementation of the second assignment on the AI introduction course at Umeå University. My original implementation can be found at: <https://github.com/MarcCoquand/facerecognition> 
 
 It works by training on a set of provided training images of faces
