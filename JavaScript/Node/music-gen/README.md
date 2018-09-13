@@ -1,4 +1,4 @@
-#DDM music genereator
+# DDM music genereator
 This repo is a javscript port of the DDM algorithm implemented in the paper [Six
 Techniques forAlgorithmic Music
 Composition](http://peterlangston.com/Papers/amc.pdf) by Peter S. Langston
