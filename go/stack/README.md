@@ -1,4 +1,4 @@
-#golang stack
+# golang stack
 > A stack is an abstract data type (ADT), commonly used in most programming
 > languages. It is named stack as it behaves like a real-world stack, for
 > example − deck of cards or pile of plates etc.
